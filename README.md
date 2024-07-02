@@ -1,5 +1,7 @@
 # PestTracker2
-Identificação de praga de mosca-da-fruta (Ceratitis capitata) usando YOLOv8![image](https://github.com/rrodrigues3/PestTracker2/assets/144910121/2de20004-6cbb-46e2-afcc-190ff32fa6c9)
+Identificação de praga de mosca-da-fruta (Ceratitis capitata) usando YOLOv8
+<img width="337" alt="image" src="https://github.com/rrodrigues3/PestTracker2/assets/144910121/6a50b67d-593d-4d8d-8d31-9d0d8a4a9949">
+
 
 # Introdução 
 Este trabalho tem como objetivo facilitar a monitorização da mosca-da-fruta (Ceratitis capitata), uma praga agrícola que pode provocar grandes estragos e prejuízos a agricultores que não realizem uma monitorização e não façam um controlo adequado. A mosca-da-fruta, afeta diversas culturas, e a deteção e identificação eficazes desta praga são cruciais para a implementação de medidas de controlo, visando minimizar os prejuízos e as perdas económicas. 
