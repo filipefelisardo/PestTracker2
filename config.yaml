@@ -1,0 +1,8 @@
+path: /Users/rafael/Desktop/PestTracker2/data  
+train: /Users/rafael/Desktop/PestTracker2/data/images/train_set 
+val: /Users/rafael/Desktop/PestTracker2/data/images/val_set
+
+# Classes
+names:
+  0: mosca
+
