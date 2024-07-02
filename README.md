@@ -10,6 +10,6 @@ O projeto dá uma certa continuidade ao trabalho desenvolvido na cadeira de Intr
 # Por onde começar 
 /main.ipynb = usado para dividir o data set e treinar o algoritmo usando o modelo YOLOv8
 
-/PestTracker2/app.py = abre a aplicação no hugging face para fazer a identificação do número de moscas atraves de uma imagem 
+/PestTracker2/app.py = abre a aplicação no hugging face para fazer a identificação do número de moscas atraves do upload de uma imagem 
 
 /predict.py = serve para correr o algortimo de identificação da mosca mas num video (ceratitis_video.mp4)
